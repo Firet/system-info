@@ -1,2 +1,2 @@
 # SystemInfo
-Aplicación hecha con Electron.js que muestra información del sistema (memoria libre, tipo de procesador). 
+App made with Electron js. Scans the system and displays information such as free memory, processor type, etc.
